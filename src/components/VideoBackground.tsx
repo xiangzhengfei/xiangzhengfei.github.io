@@ -1,6 +1,6 @@
 // src/components/VideoBackground.tsx
 import React from 'react';
-import { Flex, Heading, Text } from '@chakra-ui/react';
+import { Flex, Text } from '@chakra-ui/react';
 import ReactPlayer from 'react-player';
 
 const VideoBackground: React.FC = () => {

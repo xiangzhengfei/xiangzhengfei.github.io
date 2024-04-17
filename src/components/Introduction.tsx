@@ -1,8 +1,6 @@
 // src/components/VideoBackground.tsx
 import React from 'react';
-import { Box, Flex, Heading, Text } from '@chakra-ui/react';
-import ReactPlayer from 'react-player';
-import CustomText from '../utils/CustomText';
+import { Box, Flex, Text } from '@chakra-ui/react';
 
 const Introduction: React.FC = () => {
   return (
