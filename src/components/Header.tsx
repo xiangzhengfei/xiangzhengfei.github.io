@@ -37,7 +37,7 @@ const Header: React.FC = () => {
       top={'10px'}
     >
       <Box>
-        <Image src="src/images/logo.png" boxSize={'40%'} />
+        <Image src="./src/images/logo.png" boxSize={'40%'} />
       </Box>
 
       <Flex display={{ base: 'none', md: 'flex' }} alignItems="center">
